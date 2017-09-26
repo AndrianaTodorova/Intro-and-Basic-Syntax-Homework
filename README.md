@@ -1,3 +1,2 @@
 # Intro-and-Basic-Syntax-Homework
-This will make a conflict
-Again im making conflict
+we resolved the conflict!1111
